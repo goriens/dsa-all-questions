@@ -1,2 +1,1 @@
-
-// console.log(reverseArr(arr, k));
+console.log(13 !== 3 ? true : false);
