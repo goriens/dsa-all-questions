@@ -1,1 +1,3 @@
-swap(arr, min, i);
+
+  return b.marks - a.marks;
+});
